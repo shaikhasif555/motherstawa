@@ -6,7 +6,10 @@
 }
 
 body {
-  background: url(http://i43.tinypic.com/vewt4k.png);
+    background: url(http://i43.tinypic.com/vewt4k.png); /*asif*/
+
+
+    /*background: url('../assets/img/logo.png');*/
 }
 
 #social-sidebar {
